@@ -6,7 +6,7 @@
 setup:
 	# Create python virtualenv & source it
 	# source ~/.udacity-devops/bin/activate
-	python3 -m venv dockerproj
+	python3 -m venv ~/.dockerproj
 
 install:
 	# This should be run from inside a virtualenv
