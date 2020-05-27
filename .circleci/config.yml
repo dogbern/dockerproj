@@ -40,5 +40,5 @@ jobs:
       - run:
           name: run lint
           command: |
-            . .dockerproj/bin/activate
+            . ~/.dockerproj/bin/activate
             make lint           
